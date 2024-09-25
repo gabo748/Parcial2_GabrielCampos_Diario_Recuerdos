@@ -13,6 +13,9 @@ Diario de Recuerdos es una aplicación para registrar y gestionar tus recuerdos 
 
 ## Capturas de Pantalla y Videos
 
+- **Pantalla de inicio con varios recuerdos**
+https://github.com/gabo748/Parcial2_GabrielCampos_Diario_Recuerdos/blob/main/captura_lista_recuerdos.png
+
 - **Agregando todos los a la vez permisos**
 https://github.com/user-attachments/assets/0d01e3af-1730-4453-bf7a-901851ea1f58
 
